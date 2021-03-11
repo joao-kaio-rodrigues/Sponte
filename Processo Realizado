@@ -1,0 +1,5 @@
+# Processo Realizado: 
+1° foi realizada a criação das tabelas SITP e TPP, depois a tabela PESSOAS foi criada junto com as constraints FK_SITP e FK_TPP para referenciar os campos TIPO_P E SIT 
+2° criado gatilho após inserir na tabela pessoas para setar o campo DATA_CAD para a data atual caso o campo esteja nulo. 
+3° Inserido registros primeiramente nas tabelas SITP e TPP, depois na tabela PESSOAS. 
+4° criada consulta para visualização de dados.
